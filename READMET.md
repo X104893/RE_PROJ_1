@@ -35,7 +35,7 @@ Each .ipynb performs a seperate function.
 
 ## Final.ipynb- This file runs the graphs and vizulations that compare prime rate. mortgage rates, and housing inventory based anually and shows how the housing invetory reacts to changes in the mortgae rates and prime rates.
 ![](Images/proj1g1.png)
-![](Images/proj1g1.png)
+![](Images/Map Screenshot ud.png)
 
 ## Calcu.ipynb- This file runs a calculator that will the buyer run project mortage payments based on the amount of the loan, down payment, interst rate and length of repayment period 
 
